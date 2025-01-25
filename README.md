@@ -10,4 +10,4 @@ This is a minimalist CV template built using **HTML** and **CSS**. It is designe
 - No additional libraries or frameworks needed
 
 
-git clone https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/single-page-cv

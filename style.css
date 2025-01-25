@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    margin: 55px;
+    border-radius: 40px;
+}
+
+
+#p1{
+    color: lightgreen;
+}
+
+#title1{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+}
